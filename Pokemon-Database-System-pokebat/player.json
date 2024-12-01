@@ -1,0 +1,231 @@
+[
+    {
+      "id": 1,
+      "name": "Red",
+      "pokemon_list": [
+        {
+          "id": 1,
+          "name": "Pikachu",
+          "type": [
+            "Electric"
+          ],
+          "base_exp": 112,
+          "speed": 120,
+          "attack": 80,
+          "defense": 50,
+          "special_atk": 75,
+          "special_def": 60,
+          "hp": 45,
+          "ev": 2,
+          "current_exp": 112,    
+          "level": 1   
+        },
+        {
+          "id": 2,
+          "name": "Bulbasaur",
+          "type": [
+            "Grass",
+            "Poison"
+          ],
+          "base_exp": 64,
+          "speed": 45,
+          "attack": 49,
+          "defense": 49,
+          "special_atk": 65,
+          "special_def": 65,
+          "hp": 45,
+          "ev": 1,
+          "current_exp": 64,    
+          "level": 1   
+        },
+        {
+          "id": 3,
+          "name": "Squirtle",
+          "type": [
+            "Water"
+          ],
+          "base_exp": 63,
+          "speed": 43,
+          "attack": 48,
+          "defense": 65,
+          "special_atk": 50,
+          "special_def": 64,
+          "hp": 44,
+          "ev": 1,
+          "current_exp": 63,    
+          "level": 1   
+        },
+        {
+          "id": 4,
+          "name": "Pidgeot",
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "base_exp": 261,
+          "speed": 121,
+          "attack": 80,
+          "defense": 80,
+          "special_atk": 135,
+          "special_def": 80,
+          "hp": 83,
+          "ev": 3,
+          "current_exp": 261,    
+          "level": 1   
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Blue",
+      "pokemon_list": [
+        {
+          "id": 1,
+          "name": "Charmander",
+          "type": [
+            "Fire"
+          ],
+          "base_exp": 62,
+          "speed": 65,
+          "attack": 52,
+          "defense": 43,
+          "special_atk": 60,
+          "special_def": 50,
+          "hp": 39,
+          "ev": 1,
+          "current_exp": 62,    
+          "level": 1   
+        },
+        {
+          "id": 2,
+          "name": "Pidgey",
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "base_exp": 50,
+          "speed": 56,
+          "attack": 45,
+          "defense": 40,
+          "special_atk": 35,
+          "special_def": 35,
+          "hp": 40,
+          "ev": 1,
+          "current_exp": 50,    
+          "level": 1   
+        },
+        {
+          "id": 3,
+          "name": "Caterpie",
+          "type": [
+            "Bug"
+          ],
+          "base_exp": 39,
+          "speed": 45,
+          "attack": 30,
+          "defense": 35,
+          "special_atk": 20,
+          "special_def": 20,
+          "hp": 45,
+          "ev": 1,
+          "current_exp": 39,    
+          "level": 1   
+        },
+        {
+          "id": 4,
+          "name": "Kakuna",
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "base_exp": 72,
+          "speed": 35,
+          "attack": 25,
+          "defense": 50,
+          "special_atk": 25,
+          "special_def": 25,
+          "hp": 45,
+          "ev": 2,
+          "current_exp": 0,    
+          "level": 1   
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Green",
+      "pokemon_list": [
+        {
+          "id": 1,
+          "name": "Charmander",
+          "type": [
+            "Fire"
+          ],
+          "base_exp": 62,
+          "speed": 65,
+          "attack": 52,
+          "defense": 43,
+          "special_atk": 60,
+          "special_def": 50,
+          "hp": 39,
+          "ev": 1,
+          "current_exp": 62,    
+          "level": 1   
+        },
+        {
+          "id": 2,
+          "name": "Pidgey",
+          "type": [
+            "Normal",
+            "Flying"
+          ],
+          "base_exp": 50,
+          "speed": 56,
+          "attack": 45,
+          "defense": 40,
+          "special_atk": 35,
+          "special_def": 35,
+          "hp": 40,
+          "ev": 1,
+          "current_exp": 50,    
+          "level": 1   
+        },
+        {
+          "id": 3,
+          "name": "Caterpie",
+          "type": [
+            "Bug"
+          ],
+          "base_exp": 39,
+          "speed": 45,
+          "attack": 30,
+          "defense": 35,
+          "special_atk": 20,
+          "special_def": 20,
+          "hp": 45,
+          "ev": 1,
+          "current_exp": 39,    
+          "level": 1   
+        },
+        {
+          "id": 4,
+          "name": "Kakuna",
+          "type": [
+            "Bug",
+            "Poison"
+          ],
+          "base_exp": 72,
+          "speed": 35,
+          "attack": 25,
+          "defense": 50,
+          "special_atk": 25,
+          "special_def": 25,
+          "hp": 45,
+          "ev": 2,
+          "current_exp": 0,    
+          "level": 1   
+        }
+      ]
+    }
+]
+  
